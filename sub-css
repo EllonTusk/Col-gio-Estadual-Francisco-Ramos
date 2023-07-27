@@ -1,18 +1,10 @@
-</head>
-<link rel="stylesheet" href="sub-style.css">
-<body>
-    <header>
-        <img class="image2" src="https://cdn.ead.guru/4971/media/public/logo_alunos.png" alt="felca">
-        <h1>Escola</h1>
-    </header>
-    <h1>Alunos matriculados</h1>
-    <h2>300</h2>
-</body>
-</html>
-<body>
-<section>
-    <button class="button-as-link">
 
-    </button>
-</section>
-</body>
+header{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);}
+    body{
+        background-color:rgb(208, 177, 236);
+        color: rgb(0, 0, 0);
+    }
+    .image{width: 15%;}
+    
